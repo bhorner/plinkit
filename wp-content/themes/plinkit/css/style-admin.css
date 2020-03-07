@@ -1,0 +1,36 @@
+/********************************************************************************************* 
+
+x. ACF: General Fixes
+
+*********************************************************************************************/
+.acf-postbox h3, .acf-postbox .handlediv {
+	display: none;
+}
+
+.acf-field {
+	max-width: none !important;
+}
+
+.acf-field.no-label > .acf-label label {
+	display: none;
+}
+
+.acf-field.no-label.no-instructions > .acf-label {
+	display: none;
+}
+
+.acf-field-message p {
+	margin: 0 !important;
+}
+
+.acf-field-message.no-label .acf-label {
+	display: none;
+}
+
+.acf-image-uploader img {
+	background: #fff !important;
+}
+
+.hidden {
+/* 	display: none !important;	 */
+}

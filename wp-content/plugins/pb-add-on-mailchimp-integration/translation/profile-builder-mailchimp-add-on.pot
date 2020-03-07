@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-09-27 14:32+0300\n"
+"PO-Revision-Date: 2016-09-27 14:32+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/mailchimp-page.php:11
+msgid "MailChimp"
+msgstr ""
+
+#: admin/mailchimp-page.php:35
+msgid "MailChimp Integration"
+msgstr ""
+
+#: admin/mailchimp-page.php:44
+msgid ""
+"Before you can make any changes you will need to add a MailChimp API key."
+msgstr ""
+
+#: admin/mailchimp-page.php:60 admin/mailchimp-page.php:67
+#: admin/manage-fields.php:42 admin/manage-fields.php:46
+#: admin/manage-fields.php:60 admin/manage-fields.php:64
+msgid "MailChimp List"
+msgstr ""
+
+#: admin/mailchimp-page.php:61 admin/mailchimp-page.php:68
+msgid "Fields Count"
+msgstr ""
+
+#: admin/mailchimp-page.php:82
+msgid "We couldn't find any lists"
+msgstr ""
+
+#: admin/mailchimp-page.php:94
+msgid "Save"
+msgstr ""
+
+#: admin/mailchimp-page.php:119
+msgid "MailChimp API Key:"
+msgstr ""
+
+#: admin/mailchimp-page.php:124
+msgid "The API key was successfully validated!"
+msgstr ""
+
+#: admin/mailchimp-page.php:126
+msgid ""
+"Either the API key is not valid or we could not connect to MailChimp to "
+"validate it!"
+msgstr ""
+
+#: admin/mailchimp-page.php:129
+msgid ""
+"Enter a MailChimp API key. You can create keys in your MailChimp account."
+msgstr ""
+
+#: admin/mailchimp-page.php:157
+msgid "Edit this item"
+msgstr ""
+
+#: admin/mailchimp-page.php:171
+msgid "Cancel"
+msgstr ""
+
+#: admin/mailchimp-page.php:203
+msgid "Field Associations:"
+msgstr ""
+
+#: admin/mailchimp-page.php:212
+msgid "This field is required in MailChimp"
+msgstr ""
+
+#: admin/mailchimp-page.php:233 admin/mailchimp-page.php:308
+msgid "None"
+msgstr ""
+
+#: admin/mailchimp-page.php:262
+msgid "Associate each MailChimp field with a Profile Builder field"
+msgstr ""
+
+#: admin/mailchimp-page.php:296
+msgid "Group Associations:"
+msgstr ""
+
+#: admin/mailchimp-page.php:335
+msgid "Associate each MailChimp group with a Profile Builder field"
+msgstr ""
+
+#: admin/mailchimp-page.php:358
+msgid "Extra Options:"
+msgstr ""
+
+#: admin/mailchimp-page.php:367 admin/widget.php:218
+msgid "Double Opt-In"
+msgstr ""
+
+#: admin/mailchimp-page.php:368
+msgid ""
+"If you select double opt-in, the user will receive an e-mail to confirm the "
+"subscription"
+msgstr ""
+
+#: admin/mailchimp-page.php:383 admin/widget.php:230
+msgid "Send Welcome E-mail"
+msgstr ""
+
+#: admin/mailchimp-page.php:384 admin/widget.php:231
+msgid ""
+"If checked will send an e-mail to welcome the user to the subscribtion area"
+msgstr ""
+
+#: admin/mailchimp-page.php:429
+msgid "MailChimp API key is empty"
+msgstr ""
+
+#: admin/mailchimp-page.php:431
+msgid "MailChimp API key is invalid"
+msgstr ""
+
+#: admin/mailchimp-page.php:438 admin/manage-fields.php:46
+msgid ""
+"Something went wrong. Either the API key is invalid or we could not connect "
+"to MailChimp to validate the key."
+msgstr ""
+
+#: admin/manage-fields.php:42
+#, php-format
+msgid "Please enter a MailChimp API key <a href=\"%s\">here</a>."
+msgstr ""
+
+#: admin/manage-fields.php:52
+msgid "Select a list..."
+msgstr ""
+
+#: admin/manage-fields.php:60
+msgid "Select in which MailChimp list you wish to add a new subscriber"
+msgstr ""
+
+#: admin/manage-fields.php:61
+msgid "Checked by Default"
+msgstr ""
+
+#: admin/manage-fields.php:61
+msgid ""
+"If checked the Subscribe checkbox in the front-end will be checked by "
+"default on register forms"
+msgstr ""
+
+#: admin/manage-fields.php:62
+msgid "Hide on Edit Profile"
+msgstr ""
+
+#: admin/manage-fields.php:62
+msgid "If checked this field will not be displayed on edit profile forms"
+msgstr ""
+
+#: admin/manage-fields.php:64
+msgid "We couldn't find any lists in your MailChimp settings."
+msgstr ""
+
+#: admin/manage-fields.php:84
+msgid "Please select at least one MailChimp list \n"
+msgstr ""
+
+#: admin/widget.php:14
+msgid "Profile Builder MailChimp Widget"
+msgstr ""
+
+#: admin/widget.php:15
+msgid ""
+"Adds a basic subscribe form so that your users can subscribe to your "
+"MailChimp lists"
+msgstr ""
+
+#: admin/widget.php:68 admin/widget.php:239
+msgid ""
+"Something went wrong. Either the MailChimp API key is missing or it is "
+"invalid."
+msgstr ""
+
+#: admin/widget.php:89 admin/widget.php:91
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/widget.php:147
+msgid "Submit"
+msgstr ""
+
+#: admin/widget.php:174
+msgid "Subscribe to Newsletter"
+msgstr ""
+
+#: admin/widget.php:182
+msgid "Title"
+msgstr ""
+
+#: admin/widget.php:187
+msgid "Select the list your new subscriber will be added to"
+msgstr ""
+
+#: admin/widget.php:190
+msgid "Select..."
+msgstr ""
+
+#: admin/widget.php:205
+msgid "Select which fields to show"
+msgstr ""
+
+#: admin/widget.php:214
+msgid "Extra Options"
+msgstr ""
+
+#: admin/widget.php:219
+msgid ""
+"If you select double opt-in, the user will receive an e-mail to confirm the "
+"subscribtion"
+msgstr ""
+
+#: admin/widget.php:372
+msgid "Please select a list first"
+msgstr ""
